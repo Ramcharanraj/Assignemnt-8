@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{2A1EBBD6-F192-4E1D-842C-5C180FCDBA53}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LineComparsion/LengthOfLine.cs">
     <Files>
-      <File FileName="LineComparsion/Program.cs" Line="10" Column="25" />
+      <File FileName="LineComparsion/Program.cs" Line="27" Column="14" />
       <File FileName="LineComparsion/LengthOfLine.cs" Line="1" Column="1" />
     </Files>
     <Pads>
