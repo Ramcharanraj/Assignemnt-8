@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/bin/Debug/netcoreapp3.1/LineComparsion.deps.json
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/bin/Debug/netcoreapp3.1/LineComparsion.runtimeconfig.json
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/bin/Debug/netcoreapp3.1/LineComparsion.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/bin/Debug/netcoreapp3.1/LineComparsion.dll
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/bin/Debug/netcoreapp3.1/LineComparsion.pdb
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.AssemblyInfo.cs
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.dll
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.pdb
+/Users/ramchandran/Desktop/Assignment-8/LineComparison/LineComparsion/LineComparsion/obj/Debug/netcoreapp3.1/LineComparsion.genruntimeconfig.cache
